@@ -1,0 +1,6 @@
+package com.aartek.repositoryInterface;
+
+public interface UserRepositoryInterface extends CrudRepository<User, Long>
+{
+
+}

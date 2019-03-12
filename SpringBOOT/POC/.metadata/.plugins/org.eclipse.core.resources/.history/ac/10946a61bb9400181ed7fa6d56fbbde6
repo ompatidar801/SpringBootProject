@@ -1,0 +1,14 @@
+package com.aartek.service;
+
+import org.apache.log4j.Logger;
+import org.springframework.stereotype.Service;
+
+@Service
+public class LoginService {
+
+	
+	private static final Logger log=Logger.getLogger(LoginService.class);
+
+	
+	
+}

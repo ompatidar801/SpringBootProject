@@ -1,0 +1,7 @@
+
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â¬¡½8‹¦°þÎ,HùRMAJORZ
+CODE_SMELL
+`squid:S1905@"'Remove this unnecessary cast to "User".(Äê¾Òûÿÿÿÿ8©·æÿÎ,HøRMINORZ
+CODE_SMELL
+qsquid:CallToDeprecatedMethod7",Remove this use of "find"; it is deprecated.(¡ý¦Ä8—€ÙþÎ,H÷RMINORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="spring-boot-hibernate-5-example-master">
+        <property name="context-root" value="spring-boot-hibernate-example"/>
+        <property name="java-output-path" value="/spring-boot-hibernate-5-example-master/target/classes"/>
+    </wb-module>
+</project-modules>

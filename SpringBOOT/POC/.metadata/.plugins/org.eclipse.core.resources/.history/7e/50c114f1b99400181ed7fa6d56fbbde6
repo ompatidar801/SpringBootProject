@@ -1,0 +1,16 @@
+package com.aartek.repository;
+
+import org.apache.log4j.Logger;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Isolation;
+import org.springframework.transaction.annotation.Transactional;
+
+@Repository
+public class LoginRepo {
+
+	private static final Logger log=Logger.getLogger(RegistrationRepo.class);
+	
+	@Transactional(isolation=Isolation.READ_UNCOMMITTED)
+
+	
+}

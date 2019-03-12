@@ -1,0 +1,19 @@
+package com.aartek.controller.ws;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.aartek.model.Product;
+import com.aartek.service.ProductService;
+
+@Controller
+public class ProductControllerWS {
+
+	
+	@Autowired
+	private ProductService pservice;
+	
+	
+	public Product getProduct
+	
+}

@@ -1,0 +1,9 @@
+
+squid:S14886"_Immediately return this expression instead of assigning it to the temporary variable "product".(§Ύαθϊÿÿÿÿ8Β°Ή…Ο,HΣRMINORZ
+CODE_SMELL
+“squid:S1488B"_Immediately return this expression instead of assigning it to the temporary variable "product".(ο‰8ΐϊµ¨Ο,HςRMINORZ
+CODE_SMELL
+ssquid:UselessImportCheck"2Remove this unused import 'com.aartek.model.User'.(Δϋ’’8§‘Έ…Ο,HΤRMINORZ
+CODE_SMELL
+•squid:S1488+"\Immediately return this expression instead of assigning it to the temporary variable "rows".(¨Η‡ÿÿÿÿÿ8ϋύ„Ο,HΥRMINORZ
+CODE_SMELL

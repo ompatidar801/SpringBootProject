@@ -1,0 +1,89 @@
+2018-07-17 15:37:51 INFO  LoginController:29 - GET Method
+2018-07-17 15:37:58 INFO  LoginController:44 - Login Controller POST Method 
+2018-07-17 15:37:58 INFO  LoginController:48 - Email :----RAM
+2018-07-17 15:37:58 INFO  LoginController:52 - Password :---Shyam
+2018-07-17 15:51:29 INFO  LoginController:29 - GET Method
+2018-07-17 15:51:36 INFO  LoginController:44 - Login Controller POST Method 
+2018-07-17 15:51:36 INFO  LoginController:48 - Email :----SHubham
+2018-07-17 15:51:36 INFO  LoginController:52 - Password :---SHubham
+2018-07-17 15:51:36 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-17 15:51:36 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-17 15:54:13 INFO  LoginController:29 - GET Method
+2018-07-17 15:54:23 INFO  LoginController:44 - Login Controller POST Method 
+2018-07-17 15:54:23 INFO  LoginController:48 - Email :----Hitansh
+2018-07-17 15:54:23 INFO  LoginController:52 - Password :---Hitansh
+2018-07-17 15:54:23 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-17 15:54:23 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-20 11:01:16 INFO  LoginController:29 - GET Method
+2018-07-20 11:42:18 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-20 11:42:18 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-20 11:44:45 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-20 11:44:45 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-21 15:09:45 INFO  LoginController:29 - GET Method
+2018-07-21 15:10:02 INFO  LoginController:44 - Login Controller POST Method 
+2018-07-21 15:10:02 INFO  LoginController:48 - Email :----shubham@gmail.com
+2018-07-21 15:10:02 INFO  LoginController:52 - Password :---123456
+2018-07-21 15:10:02 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-21 15:10:02 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-21 15:41:49 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-21 15:41:49 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-21 15:43:43 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-21 15:43:43 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-21 15:49:03 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-21 15:49:03 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-21 16:06:16 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-21 16:06:16 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-21 17:07:59 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-21 17:07:59 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-26 19:57:02 INFO  LoginController:29 - GET Method
+2018-07-26 19:57:13 INFO  LoginController:46 - Login Controller POST Method 
+2018-07-26 19:57:13 INFO  LoginController:50 - Email :----abc@gmail.con
+2018-07-26 19:57:13 INFO  LoginController:54 - Password :---pass1234
+2018-07-26 19:57:13 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-26 19:57:13 DEBUG LoginRepo:17 - Login Repository Class
+2018-07-26 22:02:57 INFO  LoginController:29 - GET Method
+2018-07-26 22:03:04 INFO  LoginController:46 - Login Controller POST Method 
+2018-07-26 22:03:04 INFO  LoginController:50 - Email :----abc@gmail.con
+2018-07-26 22:03:04 INFO  LoginController:54 - Password :---pass1234
+2018-07-26 22:03:04 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-26 22:03:04 DEBUG LoginRepo:22 - Login Repository Class
+2018-07-26 22:06:04 INFO  LoginController:29 - GET Method
+2018-07-26 22:06:14 INFO  LoginController:46 - Login Controller POST Method 
+2018-07-26 22:06:14 INFO  LoginController:50 - Email :----rahul@gmail.com
+2018-07-26 22:06:14 INFO  LoginController:54 - Password :---pass1234
+2018-07-26 22:06:14 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-26 22:06:14 DEBUG LoginRepo:24 - Login Repository Class
+2018-07-26 22:08:49 INFO  LoginController:29 - GET Method
+2018-07-26 22:08:56 INFO  LoginController:46 - Login Controller POST Method 
+2018-07-26 22:08:56 INFO  LoginController:50 - Email :----shubham@gmail.com
+2018-07-26 22:08:56 INFO  LoginController:54 - Password :---pass1234
+2018-07-26 22:08:56 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-26 22:08:56 DEBUG LoginRepo:24 - Login Repository Class
+2018-07-28 15:24:38 INFO  LoginController:29 - GET Method
+2018-07-28 15:27:03 INFO  LoginController:46 - Login Controller POST Method 
+2018-07-28 15:27:03 INFO  LoginController:50 - Email :----aman@'
+2018-07-28 15:27:03 INFO  LoginController:54 - Password :---
+2018-07-28 15:27:03 WARN  LoginService:23 - 
+ Login Service Page
+2018-07-28 15:27:03 DEBUG LoginRepo:24 - Login Repository Class
+2018-08-24 23:23:55 INFO  LoginController:29 - GET Method
+2018-08-24 23:24:02 INFO  LoginController:46 - Login Controller POST Method 
+2018-08-24 23:24:02 INFO  LoginController:50 - Email :----shubham@gmail.com
+2018-08-24 23:24:02 INFO  LoginController:54 - Password :---pass1234
+2018-08-24 23:24:02 WARN  LoginService:23 - 
+ Login Service Page
+2018-08-24 23:24:02 DEBUG LoginRepo:24 - Login Repository Class

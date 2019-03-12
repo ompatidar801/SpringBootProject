@@ -1,0 +1,7 @@
+
+•squid:S1488*"\Immediately return this expression instead of assigning it to the temporary variable "list".(¶Šþ¨ÿÿÿÿÿ8úüéÛÎ,HÔRMINORZ
+CODE_SMELL
+•squid:S1488@"\Immediately return this expression instead of assigning it to the temporary variable "user".(½ñšúûÿÿÿÿ8Þæâ€Ï,HÓRMINORZ
+CODE_SMELL
+•squid:S14885"\Immediately return this expression instead of assigning it to the temporary variable "user".(¾µüÇûÿÿÿÿ8ñýèþÎ,HÕRMINORZ
+CODE_SMELL

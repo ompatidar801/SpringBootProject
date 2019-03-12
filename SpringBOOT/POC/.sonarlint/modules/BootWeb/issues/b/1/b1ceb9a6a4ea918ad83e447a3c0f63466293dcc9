@@ -1,0 +1,23 @@
+
+q
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ò ‹èıÿÿÿÿ8¾À¨Ï,H™RMAJORZ
+CODE_SMELL
+„squid:S1192A"HDefine a constant instead of duplicating this literal "ID :-- " 3 times.(ò ‹èıÿÿÿÿ8ã½¨Ï,H‰RCRITICALZ
+CODE_SMELL
+l
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¬á¨Ç8ôäù¢Ï,H´RMAJORZ
+CODE_SMELL
+q
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ò ‹èıÿÿÿÿ8éí†Ï,H¥RMAJORZ
+CODE_SMELL
+q
+squid:S106a"9Replace this use of System.out or System.err by a logger.(­¾‚§úÿÿÿÿ8ã½¨Ï,HŠRMAJORZ
+CODE_SMELL
+ssquid:UselessImportCheck"2Remove this unused import 'com.aartek.model.User'.(Äû’’8›ã¼…Ï,H¦RMINORZ
+CODE_SMELL
+}squid:UselessImportCheck"<Remove this unused import 'com.aartek.service.LoginService'.(ñŞªı8¥ë§„Ï,H¤RMINORZ
+CODE_SMELL
+ƒsquid:S1192&"LDefine a constant instead of duplicating this literal "productList" 4 times.(Ğ¿á¤8ôäù¢Ï,H³RCRITICALZ
+CODE_SMELL
+‰squid:S11926"RDefine a constant instead of duplicating this literal "redirect:/product" 3 times.(¸Ãä¢8½×»ªÏ,HûRCRITICALZ
+CODE_SMELL

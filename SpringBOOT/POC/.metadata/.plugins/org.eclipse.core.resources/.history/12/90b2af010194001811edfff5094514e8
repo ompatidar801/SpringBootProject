@@ -1,0 +1,52 @@
+package com.aartek.repository;
+
+import java.util.List;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Isolation;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.aartek.model.User;
+
+@Repository
+public class RegistrationRepo {
+
+	private static final Logger log=Logger.getLogger(RegistrationRepo.class);
+	
+	@Autowired
+	private HibernateTemplate hbtemplate;
+	
+	@Transactional(isolation=Isolation.READ_COMMITTED)
+	public String saveUser(User user)
+	{
+		log.debug("Registration Repository :---- Save User Method");
+		
+	
+		hbtemplate.save(user);
+		
+		log.debug("\n Record Inserted Successfully \n");
+		
+		return "registration";
+	}
+	
+	@Transactional(isolation=Isolation.READ_UNCOMMITTED)
+	public List<User> getAllUser(User user)
+	{
+		log.debug("Registration Repository :---- Save User Method");
+		
+		List<User> list=hbtemplate.loadAll(User.class);
+	
+		log.debug("\n Record Inserted Successfully \n");
+		
+		return list;
+	}
+	
+
+
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package com.aartek.model;
+
+public class User {
+
+	private Integer id;
+	fname;
+	lname;
+	email;
+	password;
+	mobile;
+	
+	
+}

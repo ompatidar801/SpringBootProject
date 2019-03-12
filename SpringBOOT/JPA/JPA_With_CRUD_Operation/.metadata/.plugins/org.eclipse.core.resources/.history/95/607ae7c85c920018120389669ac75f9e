@@ -1,0 +1,12 @@
+package com.aartek.repositoryInterface;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.aartek.model.User;
+
+public interface UserRepositoryInterface extends CrudRepository<User, Integer>
+{
+
+	
+	
+}

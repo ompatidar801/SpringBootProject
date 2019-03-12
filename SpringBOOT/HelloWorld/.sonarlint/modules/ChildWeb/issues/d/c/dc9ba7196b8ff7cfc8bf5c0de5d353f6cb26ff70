@@ -1,0 +1,13 @@
+
+}squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Ý½©•þÿÿÿÿHàRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(æïƒ†HáRMAJORZ
+CODE_SMELL
+isquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½ÒþÿÿÿÿHâRMINORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¨ÊÊ½úÿÿÿÿHãRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ÏªÍ±HäRMAJORZ
+CODE_SMELL

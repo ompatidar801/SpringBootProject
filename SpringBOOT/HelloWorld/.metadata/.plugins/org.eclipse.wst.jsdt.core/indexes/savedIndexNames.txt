@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\TEST\TEST1\Spring\SpringBOOT\HelloWorld\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2768858617.index
+3718908203.index
+2254218579.index
+1039018312.index
+1332472959.index
+2023514729.index

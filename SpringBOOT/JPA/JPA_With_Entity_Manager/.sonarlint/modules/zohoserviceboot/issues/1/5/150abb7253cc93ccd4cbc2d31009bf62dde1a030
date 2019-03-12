@@ -1,0 +1,20 @@
+
+bsquid:S1135U"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH1RINFOZ
+CODE_SMELL
+bsquid:S1135P"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH-RINFOZ
+CODE_SMELL
+bsquid:S1135K"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH.RINFOZ
+CODE_SMELL
+bsquid:S1135Z"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH0RINFOZ
+CODE_SMELL
+|squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(èòÿ€þÿÿÿÿH,RMAJORZ
+CODE_SMELL
+Šsquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Þ÷Ñ¸ÿÿÿÿÿ8ÊÂ™ŠÎ,H]RMINORZ
+CODE_SMELL
+squid:ModifiersOrderCheck'"EReorder the modifiers to comply with the Java Language Specification.(½±èíH*RMINORZ
+CODE_SMELL
+rsquid:S2095@"EUse try-with-resources or close this "Session" in a "finally" clause.(°Ê¾18ÊÂ™ŠÎ,H[RBLOCKERZBUG
+wsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ŸªËâH+RMAJORZ
+CODE_SMELL
+csquid:UselessImportCheck"Remove this duplicated import.(¡ž¸Îùÿÿÿÿ8ÊÂ™ŠÎ,H\RMINORZ
+CODE_SMELL

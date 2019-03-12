@@ -1,0 +1,24 @@
+package com.aartek.service;
+
+import org.apache.log4j.Logger;
+import org.springframework.stereotype.Service;
+
+import com.aartek.model.User;
+
+@Service
+public class RegistrationService {
+
+	
+	private static final Logger log=Logger.getLogger(RegistrationService.class);
+	
+	
+	public boolean saveUser(User user)
+	{
+		
+		
+		"";
+	}
+	
+	
+	
+}

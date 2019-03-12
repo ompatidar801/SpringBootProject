@@ -1,0 +1,74 @@
+package com.aartek.model;
+
+import java.io.Serializable;
+import java.util.List;
+
+import javax.persistence.CascadeType;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToMany;
+
+public class Product implements Serializable {
+
+	private Integer productId;
+
+	private String productName;
+
+	private String description;
+
+	private Integer noProducts;
+
+	private Double price;
+
+	@OneToMany(targetEntity=ProductImage.class, cascade=CascadeType.ALL)
+	@JoinColumn(name="productId", referencedColumnName="productId")
+	private List<ProductImage> pimage;
+
+	public Integer getProductId() {
+		return productId;
+	}
+
+	public void setProductId(Integer productId) {
+		this.productId = productId;
+	}
+
+	public String getProductName() {
+		return productName;
+	}
+
+	public void setProductName(String productName) {
+		this.productName = productName;
+	}
+
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+
+	public Integer getNoProducts() {
+		return noProducts;
+	}
+
+	public void setNoProducts(Integer noProducts) {
+		this.noProducts = noProducts;
+	}
+
+	public Double getPrice() {
+		return price;
+	}
+
+	public void setPrice(Double price) {
+		this.price = price;
+	}
+
+	public List<ProductImage> getPimage() {
+		return pimage;
+	}
+
+	public void setPimage(List<ProductImage> pimage) {
+		this.pimage = pimage;
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.aartek.controller.ws;
+
+public class ProductControllerWS {
+
+}

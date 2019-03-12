@@ -1,0 +1,34 @@
+package com.aartek.repository;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Isolation;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.aartek.model.Product;
+
+
+@Repository
+public class ProductRepo {
+
+	
+	private static final Logger log=Logger.getLogger(ProductRepo.class);
+
+	@Autowired
+	private HibernateTemplate hbtemplate;
+	
+	
+	@Transactional(isolation=Isolation.READ_COMMITTED)
+	public String saveProduct(Product product)
+	{
+		
+		
+		
+	}
+
+	
+	
+	
+}

@@ -1,0 +1,17 @@
+package com.aartek.model;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name="user")
+public class User {
+
+	private Integer id;
+	private String fname;
+	private String lname;
+	private String email;
+	private String password;
+	private Double mobile;
+	
+	
+}

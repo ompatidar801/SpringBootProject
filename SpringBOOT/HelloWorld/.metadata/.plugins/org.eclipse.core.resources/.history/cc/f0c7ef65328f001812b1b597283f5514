@@ -1,0 +1,27 @@
+package com.aartek.controller.ws;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.aartek.model.Product;
+import com.aartek.service.ProductService;
+
+@Controller
+public class ProductControllerWS {
+
+	
+	@Autowired
+	private ProductService pservice;
+	
+	
+	public Product getProduct(@RequestBody Product product, HttpServletRequest req)
+	{
+		
+		
+		return product;
+	}
+	
+}

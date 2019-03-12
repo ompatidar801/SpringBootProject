@@ -1,0 +1,7 @@
+
+}squid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Õ˜•½ùÿÿÿÿHåRMAJORZ
+CODE_SMELL
+qsquid:S3878!"8Remove this array creation and simply pass the elements.(Þ†ï‘ÿÿÿÿÿ8ñ–„ºÍ,HæRMINORZ
+CODE_SMELL
+squid:S1488K"]Immediately return this expression instead of assigning it to the temporary variable "hiber".(áÐþàùÿÿÿÿHçRMINORZ
+CODE_SMELL

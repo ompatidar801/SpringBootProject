@@ -1,0 +1,41 @@
+package com.aartek.service;
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.aartek.model.User;
+import com.aartek.repository.LoginRepo;
+
+@Service
+public class LoginService
+{
+	private static final Logger log=Logger.getLogger(LoginService.class);
+	
+	@Autowired
+	private LoginRepo lrepo;
+
+	public String loginServicePage(User user)
+	{
+		
+	//	System.out.println("Login Service Page \n");
+		
+		log.warn("\n Login Service Page");
+		
+		user.setId(1);
+		
+		user.setFname("Shubham");
+	
+		user.setLname("Tale");
+		
+		user.setMobileno(8889990001l);
+		
+		
+		lrepo.loginRepoPage(user);
+	
+		
+		return "login";
+	}
+
+
+}

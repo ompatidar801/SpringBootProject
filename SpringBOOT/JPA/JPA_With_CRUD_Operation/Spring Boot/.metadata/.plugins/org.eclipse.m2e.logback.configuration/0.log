@@ -1,0 +1,113 @@
+2018-08-01 17:45:50,937 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-01 17:49:35,366 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aartek.zohoboot:zohoboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\pom.xml.
+2018-08-01 17:49:48,653 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohorepositoryboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohorepositoryboot\pom.xml.
+2018-08-01 17:49:55,177 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohoserviceboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoserviceboot\pom.xml.
+2018-08-01 17:49:55,637 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohoadminboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\pom.xml.
+2018-08-01 17:50:06,286 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohorepositoryboot/src/main/java
+2018-08-01 17:50:06,289 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohorepositoryboot/src/main/resources
+2018-08-01 17:50:06,291 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohorepositoryboot/src/test/java
+2018-08-01 17:50:06,291 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohorepositoryboot/src/test/resources
+2018-08-01 17:50:06,879 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoserviceboot/src/main/java
+2018-08-01 17:50:06,879 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohoserviceboot/src/main/resources
+2018-08-01 17:50:06,883 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoserviceboot/src/test/java
+2018-08-01 17:50:06,883 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohoserviceboot/src/test/resources
+2018-08-01 17:50:07,623 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoadminboot/src/main/java
+2018-08-01 17:50:07,624 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohoadminboot/src/main/resources
+2018-08-01 17:50:07,625 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoadminboot/src/test/java
+2018-08-01 17:50:11,479 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 39 sec
+2018-08-01 17:50:13,828 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:13,893 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:13,895 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:13,902 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:15,404 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:15,412 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:15,415 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:15,427 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:17,382 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:17,412 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-01 17:50:17,468 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:17,476 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\src\test\resources
+2018-08-01 17:50:31,306 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-01 17:50:31,596 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.aartek.zohoboot:zohoboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\pom.xml.
+2018-08-01 17:50:32,093 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohoadminboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\pom.xml.
+2018-08-01 17:50:34,148 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2018-08-01 17:50:34,536 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2018-08-01 17:50:34,831 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.0.4.RELEASE/spring-boot-maven-plugin-2.0.4.RELEASE.pom
+2018-08-01 17:50:35,152 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.0.4.RELEASE/spring-boot-maven-plugin-2.0.4.RELEASE.pom
+2018-08-01 17:50:35,471 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/2.0.4.RELEASE/spring-boot-tools-2.0.4.RELEASE.pom
+2018-08-01 17:50:35,772 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/2.0.4.RELEASE/spring-boot-tools-2.0.4.RELEASE.pom
+2018-08-01 17:50:37,013 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.0.4.RELEASE/spring-boot-parent-2.0.4.RELEASE.pom
+2018-08-01 17:50:37,332 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.0.4.RELEASE/spring-boot-parent-2.0.4.RELEASE.pom
+2018-08-01 17:50:37,738 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.0.4.RELEASE/spring-boot-dependencies-2.0.4.RELEASE.pom
+2018-08-01 17:50:40,936 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.0.4.RELEASE/spring-boot-dependencies-2.0.4.RELEASE.pom
+2018-08-01 17:50:41,233 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.27.Final/netty-bom-4.1.27.Final.pom
+2018-08-01 17:50:41,626 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.27.Final/netty-bom-4.1.27.Final.pom
+2018-08-01 17:50:41,948 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.0.8.RELEASE/spring-framework-bom-5.0.8.RELEASE.pom
+2018-08-01 17:50:42,337 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.0.8.RELEASE/spring-framework-bom-5.0.8.RELEASE.pom
+2018-08-01 17:50:42,661 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Kay-SR9/spring-data-releasetrain-Kay-SR9.pom
+2018-08-01 17:50:43,810 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Kay-SR9/spring-data-releasetrain-Kay-SR9.pom
+2018-08-01 17:50:44,155 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.0.9.RELEASE/spring-data-build-2.0.9.RELEASE.pom
+2018-08-01 17:50:44,518 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.0.9.RELEASE/spring-data-build-2.0.9.RELEASE.pom
+2018-08-01 17:50:44,865 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.0.7.RELEASE/spring-integration-bom-5.0.7.RELEASE.pom
+2018-08-01 17:50:45,320 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.0.7.RELEASE/spring-integration-bom-5.0.7.RELEASE.pom
+2018-08-01 17:50:45,746 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.0.7.RELEASE/spring-security-bom-5.0.7.RELEASE.pom
+2018-08-01 17:50:46,044 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.0.7.RELEASE/spring-security-bom-5.0.7.RELEASE.pom
+2018-08-01 17:50:46,374 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Apple-SR4/spring-session-bom-Apple-SR4.pom
+2018-08-01 17:50:46,661 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Apple-SR4/spring-session-bom-Apple-SR4.pom
+2018-08-01 17:50:46,994 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.0.4.RELEASE/spring-boot-maven-plugin-2.0.4.RELEASE.jar
+2018-08-01 17:50:49,970 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.0.4.RELEASE/spring-boot-maven-plugin-2.0.4.RELEASE.jar
+2018-08-01 17:50:50,700 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohorepositoryboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohorepositoryboot\pom.xml.
+2018-08-01 17:50:51,341 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohoserviceboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoserviceboot\pom.xml.
+2018-08-01 17:50:54,048 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoadminboot/src/main/java
+2018-08-01 17:50:54,048 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohoadminboot/src/main/resources
+2018-08-01 17:50:54,049 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoadminboot/src/test/java
+2018-08-01 17:50:56,652 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohorepositoryboot/src/main/java
+2018-08-01 17:50:56,653 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohorepositoryboot/src/main/resources
+2018-08-01 17:50:56,654 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohorepositoryboot/src/test/java
+2018-08-01 17:50:56,654 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohorepositoryboot/src/test/resources
+2018-08-01 17:50:56,937 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoserviceboot/src/main/java
+2018-08-01 17:50:56,937 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohoserviceboot/src/main/resources
+2018-08-01 17:50:56,938 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zohoserviceboot/src/test/java
+2018-08-01 17:50:56,938 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zohoserviceboot/src/test/resources
+2018-08-01 17:50:57,713 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for zohoadminboot
+2018-08-01 17:50:57,788 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 26 sec
+2018-08-01 17:50:58,613 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:58,620 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:58,622 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:58,633 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:59,563 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:59,598 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:50:59,607 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:50:59,621 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:51:00,672 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:00,692 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-01 17:51:00,709 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:00,802 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\src\test\resources
+2018-08-01 17:51:00,803 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of zohoadminboot
+2018-08-01 17:51:00,803 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for zohoadminboot
+2018-08-01 17:51:00,811 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:31,432 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:31,564 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:51:31,565 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:31,606 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:51:31,630 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:31,671 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:51:31,672 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:31,803 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:51:31,821 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:31,878 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:51:31,880 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:51:32,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\src\test\resources
+2018-08-01 17:55:40,352 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:55:40,362 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-01 17:55:40,367 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:55:40,374 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\src\test\resources
+2018-08-01 17:57:17,783 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.aartek.zohoboot:zohorepositoryboot:0.0.1-SNAPSHOT @ E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohorepositoryboot\pom.xml.
+2018-08-01 17:57:18,414 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:57:18,430 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 17:57:18,432 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 17:57:18,444 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-01 18:00:19,931 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 18:00:19,960 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-01 18:00:19,962 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-01 18:00:19,968 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\TEST\TEST1\Spring\SpringBOOT\JPA\JPA_With_CRUD_Operation\Spring Boot\zohoboot\zohoadminboot\src\test\resources

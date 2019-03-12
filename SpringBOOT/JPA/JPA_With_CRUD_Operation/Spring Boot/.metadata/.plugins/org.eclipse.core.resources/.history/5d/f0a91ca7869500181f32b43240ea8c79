@@ -1,0 +1,65 @@
+package com.aartek.controller;
+
+
+
+
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import com.aartek.model.User;
+import com.aartek.service.UserService;
+
+@Controller
+public class UserController {
+	
+	@Autowired
+	private UserService userservice;
+
+	/*@RequestMapping(value="/", method=RequestMethod.GET)
+	public String index()
+	{
+		System.out.println("Inside Index");
+		return "index";//without all this method its working
+	}*/
+	
+/*	@RequestMapping(value="/welcome", method=RequestMethod.GET)
+	public String redirect()
+	{
+		System.out.println("Inside Welcome: Get");
+		return "welcome";
+	}*/
+	
+	final static Logger logger = Logger.getLogger(UserController.class);
+	@RequestMapping(value="/user", method=RequestMethod.GET)
+	   public String showUser(Model model){
+		logger.info("Inside controller");
+		System.out.println("Inside controller");
+		   logger.info("Inside controller : log");
+		   model.addAttribute("userMap", new User());
+		   return "user";
+	   }
+	@RequestMapping(value="/userSignIn", method=RequestMethod.POST)
+	  public String userAction(@ModelAttribute("userMap")User user)
+	  {
+		  /*Boolean status= false;
+			loginvalidator.validate(login, result);
+			if(result.hasErrors())
+			{
+				return "login";
+			}
+			else*/
+		logger.info("inside User Action");
+		logger.info(user.getEmail());
+		logger.info(user.getPassword());
+		  
+		  userservice.createUser(user);
+		  return "hello";
+		  
+	  }
+}
+

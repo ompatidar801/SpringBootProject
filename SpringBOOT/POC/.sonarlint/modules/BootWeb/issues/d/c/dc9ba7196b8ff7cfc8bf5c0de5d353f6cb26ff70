@@ -1,0 +1,9 @@
+
+asquid:S11252"(Remove the literal "true" boolean value.(ôè»ùÿÿÿÿ8Öç×ƒÏ,H RMINORZ
+CODE_SMELL
+squid:UselessImportCheck">Remove this unused import 'com.aartek.service.ProductService'.(şö¼İ8”¥‡Ï,H¡RMINORZ
+CODE_SMELL
+squid:UselessImportCheck	"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ8Î¡ƒ„Ï,H¢RMINORZ
+CODE_SMELL
+{squid:UselessImportCheck"5Remove this unused import 'com.aartek.model.Product'.(ªÔ§•ûÿÿÿÿ8ñìö¢Ï,H¬RMINORZ
+CODE_SMELL

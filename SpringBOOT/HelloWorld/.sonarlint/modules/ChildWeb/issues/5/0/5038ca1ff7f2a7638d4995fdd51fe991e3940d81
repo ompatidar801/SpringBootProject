@@ -1,0 +1,16 @@
+
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ•¥´HûRMAJORZ
+CODE_SMELL
+j
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¨©›ÄùÿÿÿÿHüRMAJORZ
+CODE_SMELL
+j
+squid:S106-"9Replace this use of System.out or System.err by a logger.(÷Æ“´úÿÿÿÿHıRMAJORZ
+CODE_SMELL
+\squid:S1905)"/Remove this unnecessary cast to "ProductImage".(¦¼‚õHşRMINORZ
+CODE_SMELL
+Zsquid:S1481 "(Remove this unused "pro" local variable.(¡ß°ÿÿÿÿÿHÿRMINORZ
+CODE_SMELL
+isquid:S1854 "7Remove this useless assignment to local variable "pro".(¡ß°ÿÿÿÿÿH€RMAJORZ
+CODE_SMELL

@@ -1,0 +1,7 @@
+
+Žsquid:S1488K"]Immediately return this expression instead of assigning it to the temporary variable "hiber".(áÐþàùÿÿÿÿH$RMINORZ
+CODE_SMELL
+|squid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Õ˜•½ùÿÿÿÿH%RMAJORZ
+CODE_SMELL
+isquid:S3878!"8Remove this array creation and simply pass the elements.(Þ†ï‘ÿÿÿÿÿH&RMINORZ
+CODE_SMELL

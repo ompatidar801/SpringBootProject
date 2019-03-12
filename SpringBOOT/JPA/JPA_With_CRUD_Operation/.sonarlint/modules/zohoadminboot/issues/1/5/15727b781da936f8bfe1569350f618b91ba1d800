@@ -1,0 +1,23 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÈæõşÿÿÿÿH¼RMAJORZ
+CODE_SMELL
+e
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ìÓƒĞH½RMAJORZ
+CODE_SMELL
+csquid:EmptyStatementUsageCheck*"Remove this empty statement.(ª³É8Œå¾…Î,H¾RMINORZ
+CODE_SMELL
+j
+squid:S106("9Replace this use of System.out or System.err by a logger.(ííéúÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+j
+squid:S106&"9Replace this use of System.out or System.err by a logger.(´ˆô‘úÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ı›êHÁRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸Åº«úÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬¦õüüÿÿÿÿHÃRMAJORZ
+CODE_SMELL

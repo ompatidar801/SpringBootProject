@@ -1,0 +1,28 @@
+
+jsquid:S11356"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8£ý«…Î,HÎ
+RINFOZ
+CODE_SMELL
+jsquid:S1135@"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8£ý«…Î,HÏ
+RINFOZ
+CODE_SMELL
+€squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(½±èíHÐ
+RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(èòÿ€þÿÿÿÿ8‚ƒý„Î,HÑ
+RMAJORZ
+CODE_SMELL
+_squid:S11682"+Return an empty collection instead of null.(¥¹ï8£ý«…Î,HÒ
+RMAJORZ
+CODE_SMELL
+jsquid:S11351"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8£ý«…Î,HÓ
+RINFOZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸªËâ8©Î÷„Î,HÔ
+RMAJORZ
+CODE_SMELL
+jsquid:S1135E"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8£ý«…Î,HÕ
+RINFOZ
+CODE_SMELL
+jsquid:S1135;"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8£ý«…Î,HÖ
+RINFOZ
+CODE_SMELL
